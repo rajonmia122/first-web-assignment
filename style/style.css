@@ -1,0 +1,126 @@
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  *{
+    margin: 0 ;
+    padding: 0;
+  }
+
+  
+  /* nav style section */
+
+header{
+    background-color: #F1F1F3;
+}
+  nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 0 ;
+  }
+
+  nav h3{
+    font-size: 32px;
+  }
+
+  .nav-btn  {
+    background-color: transparent;
+    border-radius: 8px;
+    color: black;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: 700;
+
+
+}
+
+  .container{
+    width: 1280px;
+    margin: 0 auto;
+    
+
+  }
+
+main{
+    background-color: #F1F1F3;
+}
+
+  /* Hero section style  */
+
+
+
+
+  .hero-section{
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    padding: 80px 50px;
+    border-radius: 24px;
+    
+  }
+
+  .hero-contents p{
+    font-size: 32px;
+    
+  }
+
+
+.hero-contents h2{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 56px;
+    margin: 16px 0 24px 0;
+}
+
+
+
+.btn1  {
+    background-color: #006A50;
+    border-radius: 8px;
+    color: white;
+    padding: 17px 34px;
+    font-size: 18px;
+    font-weight: 700;
+
+
+}
+
+
+
+
+/* Pillars Style  */
+
+.pillars{
+    padding: 40px 0;
+}
+
+.pillars h2{
+    font-size: 40px;
+    margin: 32px 0;
+}
+.pillars-group{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+
+}
+.pillars-card{
+    background-color: white;
+    padding: 24px;
+    border-radius:16px ;
+    border: 1px solid grey;
+
+}
+.pillars-card h3{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 24px 0 12px 0;
+
+}
+
+.pillars-card p{
+    font-size: 16px;
+    
+}
+
