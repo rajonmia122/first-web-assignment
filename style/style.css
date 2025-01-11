@@ -263,3 +263,43 @@ main{
 .news-reverse{
   flex-direction: row-reverse;
 }
+/* fund */
+
+.fund{
+  padding: 40px 0;
+  text-align: center;
+
+}
+.fund h2{
+  font-size: 40px;
+  margin: 12px 0;
+  
+}
+.fund p{
+  font-size: 16px;
+  margin: 12px 0;
+
+}
+.donate-tk{
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+
+}
+.donate-card{
+  padding: 40px;
+  border-radius: 16px;
+  border: 1px solid gray;
+  background-color: #FFFFFF;
+}
+
+.donate-card{
+  font-size: 40px;
+}
+
+.donate-text{
+  padding: 20px;
+  width: 1032px;
+  margin: 32px 0;
+  text-align: center;
+}
