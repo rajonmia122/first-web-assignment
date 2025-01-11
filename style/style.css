@@ -219,3 +219,47 @@ main{
   font-weight: 700;
   margin: 12px 0 10px 0;
 }
+.news-group{
+  display: flex;
+  justify-content: space-between;
+  gap: 32px;
+  padding: 48px;
+  margin: 12px 0;
+  background-color: white;
+  border-radius: 24px;
+}
+
+.news-img img{
+  border-radius: 24px;
+  width: 408px;
+  height: 306px;
+}
+
+.news-content h3{
+  font-size: 32px;
+
+}
+
+.news-content img{
+  width: 134px;
+  height: 40px;
+  margin: 12px 0;
+}
+
+.news p{
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+
+.news-content button{
+  margin-top: 20px;
+  padding: ;
+}
+
+.news h2{
+  font-size: 40px;
+}
+
+.news-reverse{
+  flex-direction: row-reverse;
+}
