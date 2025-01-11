@@ -303,3 +303,34 @@ main{
   margin: 32px 0;
   text-align: center;
 }
+/* newsletter */
+.newsletter{
+  padding: 80px 100px;
+  background-color: #C6E4D6;
+  border-radius: 24px;
+  text-align: center;
+}
+
+.newsletter h2{
+  font-size: 40px;
+}
+.newsletter p{
+  font-size: 16px;
+  margin: 16px 0;
+}
+
+.subs-text{
+  display: flex;
+  justify-content: center;
+}
+.subs-text input{
+  width: 600px;
+  padding:18px 40px;
+  border-radius: 5px 0 0 5px;
+  border: none;
+
+}
+.btn-subs{
+  border-radius: 0 5px 5px 0;
+  border: none;
+}
