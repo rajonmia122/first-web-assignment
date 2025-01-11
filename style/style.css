@@ -334,3 +334,23 @@ main{
   border-radius: 0 5px 5px 0;
   border: none;
 }
+
+
+footer{
+  padding: 50px 0;
+  text-align: center;
+}
+
+footer h2{
+  font-size: 40px;
+}
+
+footer hr{
+  width: 70%;
+  margin: 20px auto;
+}
+
+.social-icon img{
+  width: 24px;
+  height: 24px;
+}
