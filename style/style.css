@@ -199,3 +199,23 @@ main{
 .orange-btn{
   background-color:#FFC239 ;
 }
+
+/* quote */
+.quote{
+  margin: 32px 0px;
+  padding: 48px 24px;
+  background-color: white;
+  background-image: url(../assets/quote-bg.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+
+.quote p{
+  font-size: 16px;
+}
+
+.quote h3{
+  font-size: 20px;
+  font-weight: 700;
+  margin: 12px 0 10px 0;
+}
